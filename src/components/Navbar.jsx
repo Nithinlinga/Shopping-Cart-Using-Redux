@@ -1,6 +1,5 @@
 import React from 'react'
 import { FaShoppingCart } from "react-icons/fa";
-import { IoLogoChrome } from "react-icons/io";
 import { NavLink } from 'react-router-dom';
 import logo from './logo.png'
 import { useSelector } from 'react-redux';
